@@ -1,8 +1,8 @@
-# Trabajando con Python en ciencia e ingeniería
+# ¿Qué es la comunidad Python?
 
-Diapositivas de la charla impartida como parte del PyDay Granada 2018.
+Diapositivas de la charla impartida como parte de AI SAturdays Almería 2019.
 
-- **Title**: *Trabajando con Python en ciencia e ingeniería*
+- **Title**: *¿Qué es la comunidad Python?*
 - **Language**: Castellano
 - **License**: [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
-- **Conference**: PyDay Granada 2018
+- **Conference**: AI Saturdays Almería 2019
